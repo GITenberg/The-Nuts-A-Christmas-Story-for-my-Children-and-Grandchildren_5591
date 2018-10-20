@@ -1,5 +1,5 @@
 _repo: The-Nuts-A-Christmas-Story-for-my-Children-and-Grandchildren_5591
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Christmas stories'
+- GITenberg
 title: 'The Nuts: A Christmas Story for my Children and Grandchildren'
 url: http://www.gutenberg.org/ebooks/5591
